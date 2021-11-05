@@ -2,27 +2,27 @@
 
 > It’s kind of a lottery!
 
-Koala *(Kind-of-a-Lottery App)* är ett verktyg för Akademiska Sångföreningens tentamina för Lilla sångarmärket. _JKoala_, tidigare kallad _Koala²_, är den ursprungliga lokala Java-appen skriven av Kasper Sundström, sedermera ersatt av [KoalaOnline](https://github.com/KSundstrom/koala-online), likaså skriven av Kasper Sundström.
+Koala (_Kind-of-a-Lottery App_) is a tool for the Academic Male Voice Choir of Helsinki’s LSM (_Lilla Sångarmärket_) exams. _JKoala_, previously known as _Koala²_, is the original local Java application developed by Kasper Sundström, later superseded by [KoalaOnline](https://github.com/KSundstrom/koala-online), also developed by Kasper Sundström.
 
 
-## Upphovsman
+## Author
 
 **[Kasper Sundström](https://twitter.com/ksundstrom)**
 
 
-## Tack
+## Thanks
 
-Tack till **[Akademiska Sångföreningen](https://twitter.com/akademen)**, som är den tänkta användaren.
-
-
-## Standarder och komponenter
-
-JKoala är skriven i Java.
+* To **[The Academic Male Voice Choir of Helsinki](https://twitter.com/akademen)**, which is the intended user.
 
 
-## Krav
+## Standards and compoments
 
-JKoala är avsedd att kompileras till en körbar JAR och behöver en JRE för att fungera.
+JKoala is written in Java.
+
+
+## Requirements
+
+JKoala is to be compiled into a runnable JAR and needs a JRE to run.
 
 
 ## Copyright
@@ -30,5 +30,3 @@ JKoala är avsedd att kompileras till en körbar JAR och behöver en JRE för at
 © 2016–2021 Kasper Sundström.
 
 All rights reserved.
-
-Alla rättigheter förbehållna.
