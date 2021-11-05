@@ -7,7 +7,7 @@ Koala (_Kind-of-a-Lottery App_) is a tool for the Academic Male Voice Choir of H
 
 ## Author
 
-**[Kasper Sundström](https://twitter.com/ksundstrom)**
+**[Kasper Sundström](https://twitter.com/KSundstrom)**
 
 
 ## Thanks
@@ -17,12 +17,13 @@ Koala (_Kind-of-a-Lottery App_) is a tool for the Academic Male Voice Choir of H
 
 ## Standards and components
 
-JKoala is written in Java.
+* Written in Java.
 
 
 ## Requirements
 
-JKoala is to be compiled into a runnable JAR and needs a JRE to run.
+* Needs to be compiled, which requires a JDK.
+* Should be exported into a runnable JAR, which needs a JRE to run.
 
 
 ## Copyright
