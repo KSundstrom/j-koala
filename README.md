@@ -15,7 +15,7 @@ Koala (_Kind-of-a-Lottery App_) is a tool for the Academic Male Voice Choir of H
 * To **[The Academic Male Voice Choir of Helsinki](https://twitter.com/akademen)**, which is the intended user.
 
 
-## Standards and compoments
+## Standards and components
 
 JKoala is written in Java.
 
